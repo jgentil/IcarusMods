@@ -4,14 +4,14 @@
       "name": "zen-ShieldedNuclearReactor",
       "author": "Zenethian",
       "version": "1.0",
-      "week": "231",
-      "compatibility": "231",
+      "week": "w231",
+      "compatibility": "w231",
       "description": "Adds radiation containment to the Nuclear Reactor, preventing it from leaking radiation into the nearby area.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
-          "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor/zen-ShieldedNuclearReactor_P.pak"
-          "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor/zen-ShieldedNuclearReactor.EXMODZ"
+          "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor_P.pak"
+          "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor.EXMODZ"
       }
     }
    ]
