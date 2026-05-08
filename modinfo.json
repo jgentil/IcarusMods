@@ -8,7 +8,7 @@
       "compatibility": "w231",
       "description": "Adds radiation containment to the Nuclear Reactor, preventing it from leaking radiation into the nearby area.",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor_P.txt",
       "files": {
           "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor_P.pak"
           "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor.EXMODZ"
