@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "name": "zen-ShieldedNuclearReactor",
+      "author": "Zenethian",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "231",
+      "description": "Adds radiation containment to the Nuclear Reactor, preventing it from leaking radiation into the nearby area.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "zen-ShieldedNuclearReactor.EXMODZ"
+      }
+    }
+   ]
+ }
