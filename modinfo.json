@@ -12,6 +12,21 @@
           "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor_P.pak",
           "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-ShieldedNuclearReactor.EXMODZ"
       }
+    },
+    {
+      "name": "zen-HideTameMapIcons",
+      "author": "Zenethian",
+      "version": "1.0",
+      "compatibility": "ALL",
+      "description": "Hides all tamed creature arrows from the map.",
+      "imageURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-HideTameMapIcons.png",
+      "readmeURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-HideTameMapIcons.md",
+      "files": {
+          "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-HideTameMapIcons_P.pak",
+          "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-HideTameMapIcons.EXMODZ"
+      }
     }
-   ]
- }
+
+
+  ]
+}
