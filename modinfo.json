@@ -25,8 +25,32 @@
           "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-HideTameMapIcons_P.pak",
           "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-HideTameMapIcons.EXMODZ"
       }
+    },
+    {
+      "name": "zen-Enable T4 Smoker",
+      "author": "Zenethian",
+      "version": "1.0",
+      "compatibility": "w230",
+      "description": "Adds the unreleased T4 Smoker.  It uses electricity instead of charcoal, but has no new recipes.",
+      "imageURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Smoker.png",
+      "readmeURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Smoker.md",
+      "files": {
+          "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Smoker_P.pak",
+          "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Smoker.EXMODZ"
+      }
+    },
+    {
+      "name": "zen-Enable T4 Butcher",
+      "author": "Zenethian",
+      "version": "1.0",
+      "compatibility": "w230",
+      "description": "Adds the unreleased T4 Marble Butcher Bench.  It combines the same recipes as a T3 butcher bench and the fileting side of the fishing bench, but it auto-crafts the recipes.",
+      "imageURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Butcher.png",
+      "readmeURL": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Butcher.md",
+      "files": {
+          "pak": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Butcher_P.pak",
+          "exmodz": "https://raw.githubusercontent.com/jgentil/IcarusMods/refs/heads/main/zen-EnableT4Butcher.EXMODZ"
+      }
     }
-
-
   ]
 }
